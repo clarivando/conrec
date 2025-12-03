@@ -1,6 +1,7 @@
 # ConRec - A Concept-Coverage Recommender System
 
-This repository contains the source code and supporting files for the system described in the <a href="https://sol.sbc.org.br/index.php/sbie/article/view/38491" target="_blank">article</a> submitted to SBIE 2025.
+This repository contains the source code and supporting files for the system described in the [article](https://sol.sbc.org.br/index.php/sbie/article/view/38491) submitted to SBIE 2025.
+
 <img width="3991" height="1897" alt="image" src="https://github.com/user-attachments/assets/cc182730-6f7b-48b9-8e58-df8c66449b7a" />
 <p align="center">
   <b>Fonte</b>: Belizário Júnior (2025)
