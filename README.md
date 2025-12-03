@@ -32,6 +32,9 @@ The system was tested in a real classroom setting and aims to support personaliz
   <https://github.com/clarivando/anyabot>
 
 
-## References
+## Citation
 
-BELIZÁRIO JÚNIOR, C. F. et al. ConRec: An Ontology-Based Recommender System for Concept Coverage in Education Enhanced with a Gamified Chatbot Interface. In: Simpósio Brasileiro de Informática na Educação (SBIE). SBC, 2025. p. 1121-1132.
+If you use this work, please cite:
+
+**BELIZÁRIO JÚNIOR, C. F. et al**. ConRec: An Ontology-Based Recommender System for Concept Coverage in Education Enhanced with a Gamified Chatbot Interface. In: Simpósio Brasileiro de Informática na Educação (SBIE). SBC, 2025. p. 1121-1132.  
+https://sol.sbc.org.br/index.php/sbie/article/view/38491
