@@ -20,15 +20,15 @@ ConRec is a concept-coverage recommender system that integrates:
 The system was tested in a real classroom setting and aims to support personalized and explainable learning experiences.
 
 
-## ConRec Repositories
+## ConRec Repositories (The code will be available soon in December 2025)
 
-- **OntoSearch API** – Ontology management, ILS profiles, and Web search 
+- (The code will be available soon!) **OntoSearch API** – Ontology management, ILS profiles, and Web search 
   <https://github.com/clarivando/ontosearch>
 
-- **LORS API** – Learning Object recommendation and gamification 
+- (The code will be available soon!) **LORS API** – Learning Object recommendation and gamification 
   <https://github.com/clarivando/lors>
 
-- **AnyaBot** – Gamified chatbot integrated with Moodle
+- (The code will be available soon!) **AnyaBot** – Gamified chatbot integrated with Moodle
   <https://github.com/clarivando/anyabot>
 
 
