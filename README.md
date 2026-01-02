@@ -20,7 +20,7 @@ ConRec is a concept-coverage recommender system that integrates:
 The system was tested in a real classroom setting and aims to support personalized and explainable learning experiences.
 
 
-## ConRec Repositories (The code will be available soon in December 2025)
+## ConRec Repositories
 
 - (The code will be available soon!) **OntoSearch API** – Ontology management, ILS profiles, and Web search 
   <https://github.com/clarivando/ontosearch>
@@ -29,7 +29,7 @@ The system was tested in a real classroom setting and aims to support personaliz
   <https://github.com/clarivando/lors>
 
 - (The code will be available soon!) **AnyaBot** – Gamified chatbot integrated with Moodle
-  <https://github.com/clarivando/anyabot>
+  <https://github.com/clarivando/anya_bot>
 
 
 ## Citation
